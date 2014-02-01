@@ -1,2 +1,20 @@
 Investigating github stats api...
-Using this Repo: https://github.com/pksunkara/octonode
+
+Using this Repo: 
+
+https://github.com/pksunkara/octonode
+
+
+
+
+
+
+API DOCS:
+
+
+http://developer.github.com/v3/repos/#list-your-repositories
+
+http://developer.github.com/v3/repos/
+
+
+http://developer.github.com/v3/repos/statistics/
