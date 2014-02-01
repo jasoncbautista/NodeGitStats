@@ -1,3 +1,17 @@
+Without node:
+
+http://developer.github.com/guides/getting-started/
+ curl https://api.github.com/zen
+
+
+
+Just hit:
+/ GET 
+https://api.github.com/users/jasoncbautista/repos
+
+
+
+=======
 Investigating github stats api...
 
 Using this Repo: 
