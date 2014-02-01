@@ -1,3 +1,8 @@
+SUPER USEFUL:
+
+http://stackoverflow.com/questions/4592866/git-how-to-estimate-a-contribution-of-a-person-to-my-project-in-terms-of-added
+
+
 Useful for git analysis project:
 
  curl  https://api.github.com/repos/jasoncbautista/DarkSide/commits > commits.json
